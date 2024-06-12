@@ -5,10 +5,11 @@
 Приложение для скачивания контента по ключевым словам.
 
 ## Запуск
-cd server
-npm install
-npm start
-http://localhost:3000
+- cd server
+- npm init
+- npm install
+- npm start
+- http://localhost:3000
 
 ## Использование
 
